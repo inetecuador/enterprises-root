@@ -14,6 +14,12 @@ Proyecto spring boot, queryDSL, keycloak
 ## Creacion base de datos
 1. Crear la base de datos con el nombre sicpa
 2. Ejecutar el scrip crebas.sql adjunto
-3. 
+
+
+## documentacion swagger
+http://localhost:8080/baseServices/swagger-ui/index.html?configUrl=/baseServices/openapi/swagger-config
+
+
+
 
 
